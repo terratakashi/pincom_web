@@ -1,0 +1,12 @@
+== README
+
+* Ruby version
+
+  Ruby ruby 2.3.0p0 (2015-12-25 revision 53290)
+
+* Installation
+
+  Please run "bundle install".
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
